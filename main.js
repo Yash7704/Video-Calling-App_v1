@@ -1,11 +1,11 @@
-import './style.css'
+import './style.css';
 
 import firebase from 'firebase/app';
 import 'firebase/firestore';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCUTWTXab6UnfbjhyT-knpzfB7PtfiXJ3M",
+  apiKey: API_KEY,
   authDomain: "video-calling-app-59c44.firebaseapp.com",
   projectId: "video-calling-app-59c44",
   storageBucket: "video-calling-app-59c44.appspot.com",
